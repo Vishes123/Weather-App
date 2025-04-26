@@ -52,7 +52,20 @@ A modern Android Weather App that displays real-time weather information for use
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here for better presentation)*
+Here are some screenshots from the Weather App:
+
+
+## Screenshot 1
+![Weather App Screenshot 2](https://raw.githubusercontent.com/Vishes123/Weather-App/main/Screenshot_2025-04-26-11-06-24-080_com.example.weatherapp.jpg)
+
+## Screenshot 2
+![Weather App Screenshot 3](https://raw.githubusercontent.com/Vishes123/Weather-App/main/Screenshot_2025-04-26-11-06-36-792_com.google.android.permissioncontroller.jpg)
+
+## Screenshot 3
+![Weather App Screenshot 4](https://raw.githubusercontent.com/Vishes123/Weather-App/main/Screenshot_2025-04-26-11-06-53-268_com.android.intentresolver.jpg)
+
+## Screenshot 4
+![Weather App Screenshot 5](https://raw.githubusercontent.com/Vishes123/Weather-App/main/Screenshot_2025-04-26-11-07-26-750_com.example.weatherapp.jpg)
 
 ---
 
